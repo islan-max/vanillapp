@@ -1,0 +1,26 @@
+[common]
+	[common.multiThreading]
+		numberOfThreads = 1
+		threadRunTimeRatio = "0.5"
+	[common.worldGenerator]
+		showGenerationProgress = "DISABLED"
+		generatorPlan = "SURFACE_THEN_CHUNKS"
+[client]
+	quickEnableRendering = true
+	[client.advanced]
+		[client.advanced.graphics]
+			enableSsao = true
+			enableAntiAliasing = true
+			[client.advanced.graphics.culling]
+				enableCaveCulling = true
+			[client.advanced.graphics.genericRendering]
+				enableCloudRendering = false
+			[client.advanced.graphics.quality]
+				maxHorizontalResolution = "BLOCK"
+				verticalQuality = "MEDIUM"
+				horizontalQuality = "MEDIUM"
+				transparency = "COMPLETE"
+				vanillaFadeMode = "DOUBLE_PASS"
+				ditherDhFade = true
+				lodBiomeBlending = 3
+				lodChunkRenderDistanceRadius = 32

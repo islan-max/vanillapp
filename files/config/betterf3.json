@@ -1,0 +1,65 @@
+{
+  "general": {
+    "animations": false,
+    "disable_mod": false
+  },
+  "modules_left": [
+    {
+      "name": "fps",
+      "enabled": true,
+      "lines": {
+        "fps": true
+      }
+    },
+    {
+      "name": "coords",
+      "enabled": true,
+      "lines": {
+        "player_coords": true,
+        "block_coords": true,
+        "chunk_relative_coords": false,
+        "chunk_coords": false,
+        "velocity": false,
+        "absolute_velocity": false,
+        "horizontal_velocity": false
+      }
+    },
+    {
+      "name": "location",
+      "enabled": true,
+      "lines": {
+        "dimension": true,
+        "facing": true,
+        "biome": true,
+        "rotation": false,
+        "light": false,
+        "light_server": false,
+        "highest_block": false,
+        "highest_block_server": false,
+        "local_difficulty": false,
+        "day_ticks": false,
+        "days_played": true,
+        "slime_chunk": false
+      }
+    }
+  ],
+  "modules_right": [
+    {
+      "name": "system",
+      "enabled": true,
+      "lines": {
+        "time": true,
+        "memory_usage": true,
+        "allocated_memory": false,
+        "allocation_rate": false,
+        "cpu": false,
+        "display": false,
+        "gpu": false,
+        "gpu_driver": false,
+        "gpu_utilization": false,
+        "java_version": false,
+        "opengl_version": false
+      }
+    }
+  ]
+}
