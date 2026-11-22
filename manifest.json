@@ -39,8 +39,8 @@
   },
   {
    "path": "config/fantasy_weapons.json",
-   "sha1": "93af1c3c0bf9f9d16c4c6aa8eb6b13e2fceed762",
-   "size": 6244,
+   "sha1": "d3460bde9759b01a26675c1056a25a80cb74815b",
+   "size": 4564,
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/config/fantasy_weapons.json",
    "config": true
   },
@@ -655,8 +655,8 @@
   },
   {
    "path": "mods/evp-tweaks-3.7.0.jar",
-   "sha1": "58eaec465664c8e9cf6ed88cb46f67ca75402fa0",
-   "size": 137626,
+   "sha1": "54c943d7b8b6a7a2efb68ce2ea8c1d105ac690f7",
+   "size": 140552,
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.0.jar"
   },
   {
