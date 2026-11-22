@@ -1,6 +1,6 @@
 {
  "name": "Vanilla++",
- "version": "3.6.3",
+ "version": "3.7.0",
  "files": [
   {
    "path": "config/DistantHorizons.toml",
@@ -28,6 +28,20 @@
    "sha1": "095029e99727e19edea726fd0db1aa42a60bfac2",
    "size": 1377,
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/config/betterf3.json",
+   "config": true
+  },
+  {
+   "path": "config/fantasy_armor-effects.json",
+   "sha1": "ca2686ec1094dc74e6087542fe1a17558888cde3",
+   "size": 12164,
+   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/config/fantasy_armor-effects.json",
+   "config": true
+  },
+  {
+   "path": "config/fantasy_weapons.json",
+   "sha1": "93af1c3c0bf9f9d16c4c6aa8eb6b13e2fceed762",
+   "size": 6244,
+   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/config/fantasy_weapons.json",
    "config": true
   },
   {
@@ -142,6 +156,12 @@
    "url": "https://cdn.modrinth.com/data/yftXEJdS/versions/aCCDMb6l/AutoEat-5.0.0-Fabric%2Bmc1.21.1.jar"
   },
   {
+   "path": "mods/BOMD-1.10.2-1.21.1.jar",
+   "sha1": "98d20fba57e2ecbf309e15285449cb91eee19bda",
+   "size": 2679483,
+   "url": "https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar"
+  },
+  {
    "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
    "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
    "size": 283566,
@@ -244,6 +264,12 @@
    "url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/oyrAnNG8/Explorify%20v1.6.6.mod.jar"
   },
   {
+   "path": "mods/ExtremeSoundMuffler-3.57_Fabric-1.21.jar",
+   "sha1": "78d6626af92ae45929b23908fbcc93285180a045",
+   "size": 475485,
+   "url": "https://cdn.modrinth.com/data/5IIKsxiL/versions/XTqPji8i/ExtremeSoundMuffler-3.57_Fabric-1.21.jar"
+  },
+  {
    "path": "mods/FarmersDelight-1.21.1-3.3.6+refabricated.jar",
    "sha1": "6d75a472d56c7cf0e9abc7e654861076e8eff389",
    "size": 3243316,
@@ -314,6 +340,12 @@
    "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
    "size": 75984,
    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar"
+  },
+  {
+   "path": "mods/MutantMonsters-v21.1.1-1.21.1-Fabric.jar",
+   "sha1": "ea07a218e3c5a7e342505d33ca19d896ba5afd53",
+   "size": 1318293,
+   "url": "https://cdn.modrinth.com/data/derP0ten/versions/2Sdb5JWj/MutantMonsters-v21.1.1-1.21.1-Fabric.jar"
   },
   {
    "path": "mods/Platform-fabric-1.21.1-1.4.2.jar",
@@ -448,6 +480,18 @@
    "url": "https://cdn.modrinth.com/data/AuFCCYMx/versions/FUhz9xnX/armored-elytra-1.1.0.jar"
   },
   {
+   "path": "mods/armory-fabric-1.5.2+1.21.1.jar",
+   "sha1": "7ccadbd00436da037228cecd3c2357e2c1bf006b",
+   "size": 667152,
+   "url": "https://cdn.modrinth.com/data/PJvJUdGw/versions/Dn09X5Dm/armory-fabric-1.5.2%2B1.21.1.jar"
+  },
+  {
+   "path": "mods/athena-fabric-1.21.1-4.0.6.jar",
+   "sha1": "92534d85cad33ab1fee598068443c685f4bb06e0",
+   "size": 88425,
+   "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/JfyYsWKP/athena-fabric-1.21.1-4.0.6.jar"
+  },
+  {
    "path": "mods/balm-fabric-1.21.1-21.0.67.jar",
    "sha1": "f839c990308271aa85f7d85b710a1d88388295a0",
    "size": 808190,
@@ -496,6 +540,12 @@
    "url": "https://cdn.modrinth.com/data/n8QN6Z1a/versions/b87XqtPa/bundle-api-fabric-1.1.0.jar"
   },
   {
+   "path": "mods/cardinal-components-api-6.1.3.jar",
+   "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882",
+   "size": 229645,
+   "url": "https://cdn.modrinth.com/data/K01OU20C/versions/nLsCe2VD/cardinal-components-api-6.1.3.jar"
+  },
+  {
    "path": "mods/carryon-fabric-1.21.1-2.2.6.13.jar",
    "sha1": "db8b128f68588fca639310e1ad84ce61c3d2ae53",
    "size": 365419,
@@ -526,6 +576,12 @@
    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/MvfIbC5P/collective-1.21.1-8.87.jar"
   },
   {
+   "path": "mods/constructionwand-1.0.6+1.21.1.jar",
+   "sha1": "bd2df114a1b01737a2fd5b0d3a02c258422a7a8f",
+   "size": 832834,
+   "url": "https://cdn.modrinth.com/data/SdT4Yu5L/versions/gS1dPAYC/constructionwand-1.0.6%2B1.21.1.jar"
+  },
+  {
    "path": "mods/continuity-3.0.0+1.21.jar",
    "sha1": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
    "size": 1014044,
@@ -536,6 +592,18 @@
    "sha1": "4f966c3efd6ecfe679aac64ba7c6f4d4a648ad5b",
    "size": 584853,
    "url": "https://cdn.modrinth.com/data/cl223EMc/versions/K1dyr5gj/cristellib-fabric-1.21.1-3.1.7.jar"
+  },
+  {
+   "path": "mods/critical_strike-fabric-1.0.4+1.21.1.jar",
+   "sha1": "dc6aa4eed5d9478b3e33fb0d6ff8a6fcb4a6e997",
+   "size": 157796,
+   "url": "https://cdn.modrinth.com/data/ilvNBzFn/versions/8Ci3W6fL/critical_strike-fabric-1.0.4%2B1.21.1.jar"
+  },
+  {
+   "path": "mods/dungeon_difficulty-fabric-3.9.2+1.21.1.jar",
+   "sha1": "09b870c4a1efc22824729ace1e4c54e1125ac601",
+   "size": 216982,
+   "url": "https://cdn.modrinth.com/data/ENZmbSFZ/versions/T7TRMM3F/dungeon_difficulty-fabric-3.9.2%2B1.21.1.jar"
   },
   {
    "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
@@ -562,6 +630,12 @@
    "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/NBccO5gj/enchdesc-fabric-1.21.1-21.1.11.jar"
   },
   {
+   "path": "mods/enderchests-fabric-1.21.1-1.0.jar",
+   "sha1": "eaca04aa437ed1b70aaaad9418463e297e54c9f1",
+   "size": 268383,
+   "url": "https://cdn.modrinth.com/data/gxSiDoVF/versions/NjzPNZyR/enderchests-fabric-1.21.1-1.0.jar"
+  },
+  {
    "path": "mods/entity_model_features-3.3.12-1.21-fabric.jar",
    "sha1": "1528d24c0c6577ac23408c661639a0a03a5207f3",
    "size": 653743,
@@ -580,10 +654,10 @@
    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
   },
   {
-   "path": "mods/evp-tweaks-3.6.3.jar",
-   "sha1": "ae2da93704a5e11b7aa3231baadec5d21df11c09",
-   "size": 108177,
-   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.6.3.jar"
+   "path": "mods/evp-tweaks-3.7.0.jar",
+   "sha1": "855766dfacfbe0a53462fe51c362b4ad8120164c",
+   "size": 135978,
+   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.0.jar"
   },
   {
    "path": "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
@@ -676,12 +750,6 @@
    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
   },
   {
-   "path": "mods/jamlib-fabric-1.3.6+1.21.1.jar",
-   "sha1": "06812c82db4a195853fd29cc03c78bd690bac6ea",
-   "size": 187766,
-   "url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/wWGzYPkM/jamlib-fabric-1.3.6%2B1.21.1.jar"
-  },
-  {
    "path": "mods/jei-1.21.1-fabric-19.64.0.455.jar",
    "sha1": "f5e0c96e4adb473ae3e401ff5dfefe7ad609cad6",
    "size": 2416860,
@@ -730,6 +798,12 @@
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/light-overlay-12.0.0.jar"
   },
   {
+   "path": "mods/litematica-fabric-1.21-0.19.61.jar",
+   "sha1": "efce2dd7118b1e61c8aa461bd8cc9902907dd863",
+   "size": 1642590,
+   "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/o7i8oi1Z/litematica-fabric-1.21-0.19.61.jar"
+  },
+  {
    "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
    "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63",
    "size": 797454,
@@ -746,6 +820,12 @@
    "sha1": "6671786d4c36a33dcefff85d757022c2a8ed535f",
    "size": 1111591,
    "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar"
+  },
+  {
+   "path": "mods/malilib-fabric-1.21-0.21.10.jar",
+   "sha1": "e2699ef71618c54fc03c6c8b28e336603596dcef",
+   "size": 1411200,
+   "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/C99LEy6r/malilib-fabric-1.21-0.21.10.jar"
   },
   {
    "path": "mods/mezz_config-1.21.1-fabric-0.7.1.jar",
@@ -796,6 +876,12 @@
    "url": "https://cdn.modrinth.com/data/S8drsznD/versions/sw6cZo0y/moremousetweaks-fabric-1.1.1%2B1.21.1.jar"
   },
   {
+   "path": "mods/morevanillashields-1.0.2-1.21.1.jar",
+   "sha1": "3f34c76beae77fc64721bfd0d901cbea4f43766c",
+   "size": 246776,
+   "url": "https://cdn.modrinth.com/data/qYO6TImU/versions/17szNDG1/morevanillashields-1.0.2-1.21.1.jar"
+  },
+  {
    "path": "mods/mrpg-lib-fabric-2.8.1+1.21.1.jar",
    "sha1": "f2690ece7223167bd5ca8d5a63db7384bf105332",
    "size": 2274429,
@@ -820,10 +906,28 @@
    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/pPdRjl6T/notenoughanimations-fabric-1.12.7-mc1.21.1.jar"
   },
   {
+   "path": "mods/open-parties-and-claims-fabric-1.21.1-0.33.0.jar",
+   "sha1": "685e5f46457d67e001a34c203c0d87b9ae28c27d",
+   "size": 1988229,
+   "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/4XHYA7yQ/open-parties-and-claims-fabric-1.21.1-0.33.0.jar"
+  },
+  {
+   "path": "mods/oritech-fabric-1.21.1-1.2.13.jar",
+   "sha1": "498afe6e6f3cd48ed7da94ec568d14d541d9c663",
+   "size": 10763611,
+   "url": "https://cdn.modrinth.com/data/4sYI62kA/versions/GNbpMyOn/oritech-fabric-1.21.1-1.2.13.jar"
+  },
+  {
    "path": "mods/owo-lib-0.12.15.4+1.21.jar",
    "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
    "size": 1183559,
    "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
+  },
+  {
+   "path": "mods/paladins-fabric-3.1.3+1.21.1.jar",
+   "sha1": "98893b3b9cd69cc933dd372ed88e615af751996e",
+   "size": 3141537,
+   "url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/oxt4RIOL/paladins-fabric-3.1.3%2B1.21.1.jar"
   },
   {
    "path": "mods/particle_core-0.3.3+1.21.jar",
@@ -850,6 +954,12 @@
    "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Ef7P6Rb7/prickle-fabric-1.21.1-21.1.11.jar"
   },
   {
+   "path": "mods/puffish_skills-0.19.2-1.21-fabric.jar",
+   "sha1": "074ebb4b6fcbf05b8fbade6ec56d6fafb8bda7ca",
+   "size": 643801,
+   "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/ppOVyisF/puffish_skills-0.19.2-1.21-fabric.jar"
+  },
+  {
    "path": "mods/punchy-3.2b-fabric-1.21.1.jar",
    "sha1": "42469f359fd9df15e2ffcd4b3cd8d2eaac7713ea",
    "size": 4547732,
@@ -866,6 +976,12 @@
    "sha1": "bd1876929fdee030922da31c23134d56f4a679d1",
    "size": 159428,
    "url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/D23XVjUe/ranged_weapon_api-fabric-3.0.0%2B1.21.1.jar"
+  },
+  {
+   "path": "mods/relics-fabric-1.4.0+1.21.1.jar",
+   "sha1": "1a422367d218fe5629c83fe00de1feaad0589aad",
+   "size": 2190674,
+   "url": "https://cdn.modrinth.com/data/BDQucwF0/versions/N9LYLPCa/relics-fabric-1.4.0%2B1.21.1.jar"
   },
   {
    "path": "mods/resourcefulconfig-fabric-1.21-3.0.11.jar",
@@ -886,10 +1002,22 @@
    "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/y5eBSMkZ/respackopts-4.14.0%2B1.21.1.4.jar"
   },
   {
+   "path": "mods/rogues-fabric-3.1.3+1.21.1.jar",
+   "sha1": "ea639cd43d67396cca452ba9b624257febfe7954",
+   "size": 1775816,
+   "url": "https://cdn.modrinth.com/data/3MKqoGuP/versions/u72fV2Ep/rogues-fabric-3.1.3%2B1.21.1.jar"
+  },
+  {
    "path": "mods/rottencreatures-fabric-1.21.1-1.1.2.jar",
    "sha1": "24f4599c5e4e6578df7fca9ec90bc99ba24f84ae",
    "size": 2621031,
    "url": "https://cdn.modrinth.com/data/5Zusp48B/versions/PlS61WUI/rottencreatures-fabric-1.21.1-1.1.2.jar"
+  },
+  {
+   "path": "mods/runes-fabric-1.3.2+1.21.1.jar",
+   "sha1": "71435c2d9144ac06fc58133bb6d243316c017b98",
+   "size": 326613,
+   "url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/MUfjgRc2/runes-fabric-1.3.2%2B1.21.1.jar"
   },
   {
    "path": "mods/s-lib-fabric-3.0.1+1.21.1.jar",
@@ -902,6 +1030,18 @@
    "sha1": "a0b2bc46dd5ce734eec84fe69b50e395051cfa4f",
    "size": 15034794,
    "url": "https://cdn.modrinth.com/data/zr0QMQMo/versions/rtASbMPr/scalable-cats-force-fabric-3.1.8.jar"
+  },
+  {
+   "path": "mods/shetiphiancore-fabric-1.21.1-1.1.jar",
+   "sha1": "65a1791393781aaf5ebcb3b21daecc34f57e449b",
+   "size": 544060,
+   "url": "https://cdn.modrinth.com/data/oX7uP2kS/versions/2THiSvPG/shetiphiancore-fabric-1.21.1-1.1.jar"
+  },
+  {
+   "path": "mods/skill_tree-fabric-1.6.1+1.21.1.jar",
+   "sha1": "17f2e26c8cefad738df176c7df0cda54d6fa21de",
+   "size": 2989796,
+   "url": "https://cdn.modrinth.com/data/PjDhruSC/versions/DW1WcXvI/skill_tree-fabric-1.6.1%2B1.21.1.jar"
   },
   {
    "path": "mods/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
@@ -944,6 +1084,12 @@
    "sha1": "43a95dfa338a2a6ba3ea33a5efa0ac040331e50c",
    "size": 2996065,
    "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+  },
+  {
+   "path": "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+   "sha1": "328dcb51c60f7e6cf19c40874dc67335fd44b9f7",
+   "size": 1670672,
+   "url": "https://cdn.modrinth.com/data/iHtpVwJL/versions/kjNlOByJ/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
   },
   {
    "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
@@ -1030,16 +1176,16 @@
    "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/apJG54CW/trashslot-fabric-1.21.1-21.1.11.jar"
   },
   {
+   "path": "mods/travelertoolbelt-fabric-1.21.1-1.0.6.jar",
+   "sha1": "723cfdefe1d11d7955faa833c4942d9ee07b697d",
+   "size": 315275,
+   "url": "https://cdn.modrinth.com/data/oQxD3huq/versions/BFX1dvCw/travelertoolbelt-fabric-1.21.1-1.0.6.jar"
+  },
+  {
    "path": "mods/trinkets-3.10.0.jar",
    "sha1": "f54756f938c7c273713b9f97d4a987eec551e892",
    "size": 272944,
    "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
-  },
-  {
-   "path": "mods/utility-belt-fabric-3.0.2+1.21.1.jar",
-   "sha1": "03abfc0cd68a76e6273e820723a0e49783e03a24",
-   "size": 271585,
-   "url": "https://cdn.modrinth.com/data/9ewe2JHJ/versions/NhWsqby3/utility-belt-fabric-3.0.2%2B1.21.1.jar"
   },
   {
    "path": "mods/vanilla-refresh-1.4.26_1.21.jar",
@@ -1064,6 +1210,12 @@
    "sha1": "2ef078e0e3409e3a97ec3fdc0cfd7db7ca34bc40",
    "size": 1248666,
    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/nSAwjAk4/waystones-fabric-1.21.1-21.1.46.jar"
+  },
+  {
+   "path": "mods/wizards-fabric-3.1.3+1.21.1.jar",
+   "sha1": "6336f1cd6af77440b1686aa3e569975d2a692977",
+   "size": 4542815,
+   "url": "https://cdn.modrinth.com/data/NkGaQMDA/versions/YXyLQF2i/wizards-fabric-3.1.3%2B1.21.1.jar"
   },
   {
    "path": "mods/worldweaver-21.0.23-fabric.jar",
@@ -1167,7 +1319,9 @@
   "mods/Chunky-Fabric-1.4.23.jar",
   "mods/ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
   "mods/bettermobcombat-fabric-1.21.1-1.0.1.jar",
+  "mods/blastingraw-1.21.1-fabric-4.jar",
   "mods/collective-1.21.1-8.86.jar",
+  "mods/deimos-1.21.1-fabric-2.8.jar",
   "mods/easyauth-mc1.21-3.4.4.jar",
   "mods/essential_commands-0.35.2-mc1.21.jar",
   "mods/evp-tweaks-3.0.0.jar",
@@ -1182,14 +1336,19 @@
   "mods/evp-tweaks-3.6.0.jar",
   "mods/evp-tweaks-3.6.1.jar",
   "mods/evp-tweaks-3.6.2.jar",
+  "mods/evp-tweaks-3.6.3.jar",
   "mods/fabric-api-0.116.18+1.21.1.jar",
+  "mods/followersteleporttoo-1.21.1-3.2.jar",
   "mods/graves-3.4.4+1.21.jar",
   "mods/immersive_optimization-fabric-1.21.1-0.2.0.jar",
   "mods/inventorio-mc1.21.1-fabric-v1.11.0.jar",
+  "mods/jamlib-fabric-1.3.6+1.21.1.jar",
   "mods/mobplayeranimator-fabric-1.21.1-1.1.0.jar",
   "mods/polymer-bundled-0.9.19+1.21.1.jar",
   "mods/servercore-fabric-1.5.19+1.21.1.jar",
+  "mods/tlc-fabric-1.21.1-2.1.0.jar",
   "mods/touch_n_motion-1.0.5.jar",
+  "mods/utility-belt-fabric-3.0.2+1.21.1.jar",
   "mods/visuality-0.7.7+1.21.jar",
   "mods/yarrp-mc1.21.1-fabric-v0.2.0.jar"
  ],

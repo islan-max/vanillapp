@@ -15,6 +15,19 @@ if (-not $Game) {
     exit 1
 }
 Write-Host "Pasta do jogo: $Game"
+# atualizacao baixada pelo jogo que nao foi aplicada (ex.: launcher fechou o ajudante): aplica agora
+$Stage = Join-Path $Game '.vanillapp-novo'
+if (Test-Path $Stage) {
+    $rmf = Join-Path $Stage '.remover.txt'
+    if (Test-Path $rmf) { Get-Content $rmf | Where-Object { $_.Trim() } | ForEach-Object { Remove-Item -LiteralPath (Join-Path $Game ($_ -replace '/', '\')) -Force -ErrorAction SilentlyContinue }; Remove-Item $rmf -Force }
+    Get-ChildItem -LiteralPath $Stage -Recurse -File -Force | ForEach-Object {
+        $dst = Join-Path $Game $_.FullName.Substring($Stage.Length + 1)
+        New-Item -ItemType Directory -Path (Split-Path $dst -Parent) -Force | Out-Null
+        Move-Item -LiteralPath $_.FullName -Destination $dst -Force
+    }
+    Remove-Item -LiteralPath $Stage -Recurse -Force -ErrorAction SilentlyContinue
+    Write-Host 'Apliquei a atualizacao que o jogo tinha baixado.'
+}
 $Wc = New-Object System.Net.WebClient
 $Wc.Headers['User-Agent'] = 'vanillapp-updater'
 $Man = ($Wc.DownloadString($Base + 'manifest.json?t=' + [DateTime]::UtcNow.Ticks)) | ConvertFrom-Json
