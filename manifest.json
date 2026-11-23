@@ -35,14 +35,16 @@
    "sha1": "ca2686ec1094dc74e6087542fe1a17558888cde3",
    "size": 12164,
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/config/fantasy_armor-effects.json",
-   "config": true
+   "config": true,
+   "force": true
   },
   {
    "path": "config/fantasy_weapons.json",
    "sha1": "d3460bde9759b01a26675c1056a25a80cb74815b",
    "size": 4564,
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/config/fantasy_weapons.json",
-   "config": true
+   "config": true,
+   "force": true
   },
   {
    "path": "config/ftblibrary-client.snbt",
