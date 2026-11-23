@@ -670,10 +670,10 @@
    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
   },
   {
-   "path": "mods/evp-tweaks-3.7.1.jar",
-   "sha1": "36c1106d3a1832ebfc778f91e43bb493e040ff9a",
-   "size": 155469,
-   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.1.jar"
+   "path": "mods/evp-tweaks-3.7.2.jar",
+   "sha1": "b3ded9a3183b6acd1101e051bb8f2fd8bd8cbe81",
+   "size": 155720,
+   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.2.jar"
   },
   {
    "path": "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
@@ -1354,6 +1354,7 @@
   "mods/evp-tweaks-3.6.2.jar",
   "mods/evp-tweaks-3.6.3.jar",
   "mods/evp-tweaks-3.7.0.jar",
+  "mods/evp-tweaks-3.7.1.jar",
   "mods/fabric-api-0.116.18+1.21.1.jar",
   "mods/followersteleporttoo-1.21.1-3.2.jar",
   "mods/graves-3.4.4+1.21.jar",
