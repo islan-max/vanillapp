@@ -1,6 +1,6 @@
 {
  "name": "Vanilla++",
- "version": "3.7.1",
+ "version": "3.7.2",
  "files": [
   {
    "path": "config/DistantHorizons.toml",
@@ -496,6 +496,12 @@
    "url": "https://cdn.modrinth.com/data/PJvJUdGw/versions/Dn09X5Dm/armory-fabric-1.5.2%2B1.21.1.jar"
   },
   {
+   "path": "mods/artifacts-fabric-13.2.4.jar",
+   "sha1": "58c9d21078945dec2d20df05aeacd635be9d3502",
+   "size": 1487812,
+   "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/cTss6Iq4/artifacts-fabric-13.2.4.jar"
+  },
+  {
    "path": "mods/athena-fabric-1.21.1-4.0.6.jar",
    "sha1": "92534d85cad33ab1fee598068443c685f4bb06e0",
    "size": 88425,
@@ -665,8 +671,8 @@
   },
   {
    "path": "mods/evp-tweaks-3.7.1.jar",
-   "sha1": "c7e0ac434f8b1be09aa2eb8e13dde4f89d66325e",
-   "size": 154448,
+   "sha1": "36c1106d3a1832ebfc778f91e43bb493e040ff9a",
+   "size": 155469,
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.1.jar"
   },
   {
