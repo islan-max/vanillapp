@@ -31,6 +31,14 @@
    "config": true
   },
   {
+   "path": "config/constructionwand-client.toml",
+   "sha1": "f9d3844386459df852ec3a9c61f583e6e908dd15",
+   "size": 828,
+   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/config/constructionwand-client.toml",
+   "config": true,
+   "force": true
+  },
+  {
    "path": "config/fantasy_armor-effects.json",
    "sha1": "ca2686ec1094dc74e6087542fe1a17558888cde3",
    "size": 12164,
@@ -657,8 +665,8 @@
   },
   {
    "path": "mods/evp-tweaks-3.7.1.jar",
-   "sha1": "a5dc23a6f70ba97a5549a88861d878e940dfa79b",
-   "size": 150810,
+   "sha1": "c7e0ac434f8b1be09aa2eb8e13dde4f89d66325e",
+   "size": 154448,
    "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.1.jar"
   },
   {
