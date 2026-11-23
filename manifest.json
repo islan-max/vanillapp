@@ -1,6 +1,6 @@
 {
  "name": "Vanilla++",
- "version": "3.7.0",
+ "version": "3.7.1",
  "files": [
   {
    "path": "config/DistantHorizons.toml",
@@ -656,10 +656,10 @@
    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar"
   },
   {
-   "path": "mods/evp-tweaks-3.7.0.jar",
-   "sha1": "54c943d7b8b6a7a2efb68ce2ea8c1d105ac690f7",
-   "size": 140552,
-   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.0.jar"
+   "path": "mods/evp-tweaks-3.7.1.jar",
+   "sha1": "a5dc23a6f70ba97a5549a88861d878e940dfa79b",
+   "size": 150810,
+   "url": "https://raw.githubusercontent.com/islan-max/vanillapp/main/files/mods/evp-tweaks-3.7.1.jar"
   },
   {
    "path": "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
@@ -1339,6 +1339,7 @@
   "mods/evp-tweaks-3.6.1.jar",
   "mods/evp-tweaks-3.6.2.jar",
   "mods/evp-tweaks-3.6.3.jar",
+  "mods/evp-tweaks-3.7.0.jar",
   "mods/fabric-api-0.116.18+1.21.1.jar",
   "mods/followersteleporttoo-1.21.1-3.2.jar",
   "mods/graves-3.4.4+1.21.jar",
